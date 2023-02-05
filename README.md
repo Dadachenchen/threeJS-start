@@ -1,2 +1,2 @@
 # threeJS-start
-Begiinig to learn threeJS
+Beginnig to learn threeJS
